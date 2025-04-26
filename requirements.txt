@@ -1,6 +1,6 @@
 numpy>=1.22
-pandas>=1.4
-scikit-learn==0.24.2
-streamlit
-xgboost
-openai
+pandas>=1.5
+scikit-learn>=1.0.2
+streamlit>=1.17
+xgboost>=1.6.0
+openai>=0.27.0
