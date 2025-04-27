@@ -33,7 +33,7 @@ st.markdown(
     """
     <div style="text-align: center; padding: 10px 0;">
         <h1 style="color: #FF4B4B; font-size: 50px;">Heart Health Risk Analyzer 💖</h1>
-        <a href="https://app.powerbi.com/links/lmizRoRfol?ctid=6ab2fdb5-cc9e-42b3-8fb9-08ee58b9c4a1&pbi_source=linkShare" target="_blank">
+        <a href="https://app.powerbi.com/view?r=eyJrIjoiM2ZjM2QwZmItZjU4Mi00ZDAxLWI3MjctODQxY2RmNzdhZjUzIiwidCI6IjZhYjJmZGI1LWNjOWUtNDJiMy04ZmI5LTA4ZWU1OGI5YzRhMSJ9" target="_blank">
             <button style="background-color: #00BFFF; color: white; padding: 10px 20px; border: none; border-radius: 8px; font-size: 18px;">📊 View Chart</button>
         </a>
     </div>
