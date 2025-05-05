@@ -1,4 +1,4 @@
-# 🫀 Cardiovascular Risk Prediction (Framingham Heart Study)
+# 🫀 Heart Failure Prediction (Framingham Heart Study)
 
 This project predicts the 10-year risk of coronary heart disease (CHD) using health data from an ongoing cardiovascular study in Framingham, Massachusetts. By applying various classification models, we aim to identify high-risk individuals early and support preventive healthcare.
 
