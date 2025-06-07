@@ -4,6 +4,8 @@ This project predicts the 10-year risk of coronary heart disease (CHD) using hea
 
 🔗 **Live App on Streamlit:**  
 [👉 Heart Disease Risk Predictor](https://heartfailureprediction-gorv3hkqohajttbgpv932z.streamlit.app/)
+![Image](https://github.com/user-attachments/assets/9dd05b6f-bf33-4d5f-92f2-114066bf12ba)
+
 
 ---
 
